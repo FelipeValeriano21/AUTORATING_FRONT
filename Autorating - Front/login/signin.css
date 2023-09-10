@@ -1,0 +1,26 @@
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #131313;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+
+}
+
+}
+
+
+body{
+
+    background-color: #e2e2e282;
+    font-family:"Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+
+}
+

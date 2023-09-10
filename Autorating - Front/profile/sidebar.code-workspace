@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../sidebar"
+		},
+		{
+			"path": "../../../Downloads/sidebars"
+		},
+		{
+			"path": "../../FATEC - DSM/4°SEMESTRE/Laboratório de Desenvolvimento Web/Auto Rating - MLV/Front_End/sign-in/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sidebar"
+	}
+}
